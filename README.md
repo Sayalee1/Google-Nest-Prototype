@@ -1,5 +1,8 @@
 # Google-Nest-Prototype
 
+![alt tag](https://cloud.githubusercontent.com/assets/11401305/17708365/8044a966-6399-11e6-9c34-43fb633c2cf3.png)
+![alt tag](https://cloud.githubusercontent.com/assets/11401305/17708358/787c8bfe-6399-11e6-8959-9fcb21996fef.jpg)
+
 1. The temperature and humidity sensors send their reading values to Arduino.
 2. From the Arduino the data is sent in particular format through the transmitter to the Raspberry Pi.
 3. The Raspberry Pi has a receiver that receives the data format values and publishes data to the MQTT topics.
